@@ -10,6 +10,9 @@
 * <img width="533" alt="8" src="https://user-images.githubusercontent.com/81343412/115588327-d12e6580-a2f8-11eb-88db-97a1a14fbcb3.PNG">
 * <img width="547" alt="9" src="https://user-images.githubusercontent.com/81343412/115588330-d25f9280-a2f8-11eb-93f4-79bd3b4912b7.PNG">
 
+# Tugas Validitas Form Hasilnya
+<img width="316" alt="tugas2" src="https://user-images.githubusercontent.com/81343412/115979437-21831d00-a5b0-11eb-97e8-2e614b8ffdc8.PNG">
+<img width="502" alt="tugas3" src="https://user-images.githubusercontent.com/81343412/115979441-234ce080-a5b0-11eb-828d-26dbb10eb526.PNG">
 
 
 
